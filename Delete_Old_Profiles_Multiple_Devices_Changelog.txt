@@ -1,0 +1,11 @@
+Version: 1.0
+Date: 20240412
+Changelog: Creation
+
+Version: 2.0
+Date: 20240912
+Changelog: Added Changelog, Re-did bat file, Removed prompting for admin creds, Updated file naming.
+
+Version: 2.1
+Date: 20240915
+Changelog: Made some QOL updates
